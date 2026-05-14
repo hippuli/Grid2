@@ -1,0 +1,8 @@
+package-as: Grid2
+
+move-folders:
+  Grid2/Grid2: Grid2
+  Grid2/Grid2LDB: Grid2LDB
+  Grid2/Grid2Options: Grid2Options
+  Grid2/Grid2RaidDebuffs: Grid2RaidDebuffs
+  Grid2/Grid2RaidDebuffsOptions: Grid2RaidDebuffsOptions
