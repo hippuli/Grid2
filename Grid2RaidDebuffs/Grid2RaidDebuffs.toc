@@ -1,9 +1,9 @@
-## Interface: 20505
+## Interface: 20506
 ## Title: Grid2 |cd1ff7d0aRaidDebuffs|r
 ## Notes: Adds a Raid Boss debuff status.
 ## Notes-esES: Muestra los debuffs de Bosses de Raid en el Grid2.
 ## Dependencies: Grid2
-## Version:2.9.26
+## Version:2.9.27
 ## IconTexture: Interface/AddOns/Grid2/media/iconsmall.tga
 ## X-Category: UnitFrame
 ## X-Website: http://wowace.com/projects/grid2/
