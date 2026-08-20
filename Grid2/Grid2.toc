@@ -1,7 +1,7 @@
 ## Interface: 20506
 ## Title: Grid2
 ## Author: Pastamancer & Maia, Jerry, Toadkiller
-## Version: 2.9.28
+## Version: 2.9.29
 ## IconTexture: Interface/AddOns/Grid2/media/iconsmall.tga
 ## Notes: A modular, lightweight and screen-estate saving grid of party/raid unit frames
 ## Notes-esES: Marcos de unidades de raid compactos y ligeros.
