@@ -1,7 +1,6 @@
 # Grid2
 
-## [2.9.31](https://github.com/michaelnpsp/Grid2/tree/2.9.31) (2026-08-22)
-[Full Changelog](https://github.com/michaelnpsp/Grid2/compare/2.9.29...2.9.31) [Previous Releases](https://github.com/michaelnpsp/Grid2/releases)
+## [2.9.32](https://github.com/michaelnpsp/Grid2/tree/2.9.32) (2026-09-10)
+[Full Changelog](https://github.com/michaelnpsp/Grid2/compare/2.9.30...2.9.32) [Previous Releases](https://github.com/michaelnpsp/Grid2/releases)
 
-- Enabled Summon status for Seasson of Discovery  
-- Fixing summon icon in settings.  
+- Fixing possible crash in status load conditions.  
